@@ -1,3 +1,46 @@
+#Reading Notes
+
+
+## 102 - Day 01
+
+1. Which is the biggest heading? <br>
+
+  A. # <br>
+  B. ## <br>
+  C. ### <br>
+  <br>
+2. What does ** ** do?<br>
+
+  A. Italic <br>
+  B. Bold <br>
+  C. Strike through <br>
+  <br>
+3. Which symbole represents strikethrough?<br>
+
+  A. ~~ <br>
+  B. ** ** <br>
+  C. __ __<br>
+  <br>
+  
+4. What is the format for making a link?<br>
+
+  A. http://github.com <br>
+  B. [GitHub](http://github.com) <br>
+  C. Both 'A' and 'B' <br>
+  D. [Alt Text](url) <br>
+  <br>
+  
+5. Should you ask for help right after you come across a problem?<br>
+
+  A. Yes <br>
+  B. No <br>
+  C. Maybe <br>
+  D. I like turtles
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jennerdulce/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
