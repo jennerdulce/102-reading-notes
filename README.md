@@ -3,78 +3,35 @@
 
 ## 102 - Day 01
 <br>
-1. Which is the biggest heading?
+Which is the biggest heading?
 
   A. # <br>
   B. ## <br>
   C. ### <br>
-  <br>
-2. What does ** ** do?<br>
+
+What does ** ** do?
 
   A. Italic <br>
   B. Bold <br>
   C. Strike through <br>
   <br>
-3. Which symbole represents strikethrough?<br>
+Which symbole represents strikethrough?
 
   A. ~~ <br>
   B. ** ** <br>
   C. __ __<br>
-  <br>
   
-4. What is the format for making a link?<br>
+What is the format for making a link?<br>
 
   A. http://github.com <br>
   B. [GitHub](http://github.com) <br>
   C. Both 'A' and 'B' <br>
   D. [Alt Text](url) <br>
-  <br>
   
-5. Should you ask for help right after you come across a problem?<br>
+Should you ask for help right after you come across a problem?<br>
 
   A. Yes <br>
   B. No <br>
   C. Maybe <br>
   D. I like turtles
 
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jennerdulce/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jennerdulce/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
