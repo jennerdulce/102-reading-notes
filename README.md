@@ -6,5 +6,5 @@
 
 2. [Day 02](https://jennerdulce.github.io/reading-notes/Day-02.md)
 
-3. Day 03
+3. [Day 03](https://jennerdulce.github.io/reading-notes/Day-03.md)
 
