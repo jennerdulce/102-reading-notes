@@ -1,17 +1,58 @@
-## 102 - Day 01
+# 102 - Day 01
 <br>
-Which is the biggest heading?
 
-  A. # <br>
-  B. ## <br>
-  C. ### <br>
+## Headings
+```
+# Largest Heading
+## 
+###
+####
+#####
+###### Smallest Heading
+
+End a line with (2) spaces to start a new paragraph
+
+*italics*
+
+**bold**
+
+superscript^#^
+
+~~strike through~~
+
+[linkname](url)
+
+image: ![picture description](path to image.jpg)
+
+horizontal rule ***
+> block quote
+
+* Unordered list item 1
+* Unordered list item 2
+  * sub-item 1
+  * sub-item 2
+
+1. Ordered list item 1
+2. Ordered list item 2
+  + sub-item 1
+  + sub-item 2
+
+Table header | Second Header
+-------------|--------------
+Cell 1       | Cell 2
+Cell 3       | Cell 4
+
+` inline code `
+``` code chunks ```
+
+```
 
 What does ** ** do?
 
   A. Italic <br>
   B. Bold <br>
   C. Strike through <br>
-  <br>
+  
 Which symbole represents strikethrough?
 
   A. ~~ <br>
