@@ -96,3 +96,7 @@ if (hourNow > 18) {
     - you get to define a problem
     - write the software to take an idea and make it a reality
     - build things that matter to you.
+    
+## Refleciton
+
+Javascript is awesome. Just need to study more and learn how to apply it to html later. I was able to figure out on how to make a prompt and make my background color change.
