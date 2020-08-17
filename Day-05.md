@@ -8,6 +8,7 @@ Helpful tips
 - For the body/overall width of your page, use at least a 960 (previous standard) or 1024 is also good because it is easily divisible between other resolution
 - `margin: auto` centers the content within the container
 - `text-align: center` centers text
+- `max-width: 960px;` is also good to add
 - for lists and nav bars
     - `list-style-type: none`
     - `display: inline`
