@@ -13,3 +13,5 @@
 5. [Day 05](https://github.com/jennerdulce/reading-notes/blob/master/Day-05.md)
 
 6. [Day 06](https://github.com/jennerdulce/reading-notes/blob/master/Day-06.md)
+
+7. [Day 07](https://github.com/jennerdulce/reading-notes/blob/master/Day-07.md)
