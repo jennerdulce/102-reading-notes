@@ -1,7 +1,25 @@
 # 102 - Day 06
 
 ## What I learned today
-
+- There are 2 componentes in making a decision:
+  1. Evaluation of a condition
+    - In order to make a decision,your code checkes the current status of the script. This is commonly done by comparing two values using a comparison operator which returns a True or False value
+  2. Conditional statements: if/then/else
+  
+- a comparison operator usually contains 2 operands and a comparison operator: `(score >= pass)`
+  - `var comparison = (score1 + score2) > (highScore1 + highScore2);` will display a True or False
+  
+ - and statement `((2 < 4) && (3 >= 2))` 
+  - if **both** expressions evaluate to true, then the expression returns true
+  - if just **one** of these returns false, then the expression will return false
+  - **false** && anything: there is no reason in continuing to determine the result because **both** have to be true
+  
+ - or statement `((2 < 4) || (3 > 5))`
+  - if **either** expression evaluates to true, then the expression returns true
+  - **both** have to return false in order to return false.
+  - **true** || anything : there is no reason in continuting because **one** expression evaluates to true
+  
+ - logical not `!(2 < 1)` operator takes a single boolean value and inverts it
 
 
 ### Comparison and logical operators
