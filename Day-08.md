@@ -1,4 +1,4 @@
-# 102 - Day 06
+# 102 - Day 08
 
 ## What I learned today
 - There are 2 componentes in making a decision:
