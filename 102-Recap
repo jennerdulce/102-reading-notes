@@ -1,0 +1,75 @@
+### if you basically put on blinders and just go youll be able to get a job at amazon
+ go forward
+ tunnel vision on the goal
+ 
+ jargon and stuff you dont understand
+ will become 1 + 1
+ 
+ ### Career Coaching
+ - 7 Pillars
+ - Qualifying Interview
+ - Tech exam/ Whiteboard
+ 
+ ### dont come out of 401 and 'need a break or take a vacation'
+ - got get a job ASAP
+ - code fellows is not a free hand out
+ - work your ass off
+ 
+ 
+ -linked in most important thing
+ - more time and effeot to polish your resume, linked in or technical skill in code
+ the more you will shine
+ 
+ growth mindset
+  - cannot success with a fixed mindset
+  - too many things in the software industry that you have the develop a growth mindset
+  
+  abstraction
+    - there are layers upon layers for everything that exists in technology and in my computer
+    - we dont have to write 0 and 1
+    
+    -`ls -a` show me dot files
+    - cd ../../../../
+    - mkdir sample-project && cd sample-project && touch sample.txt
+    - cat: beak into file
+    - clear
+    - man: manual page
+    man-git
+    man-ascii
+    alias: makes a new key command in terminal that you can make
+    
+    sud apt-get (wsl or linux): install in terminal using apt-git
+    
+    homebrew = mac version of apt-git
+    
+    node.js
+    
+    github online remote system: backup code
+    git stores locally and tracks on github
+      - everyone ACP : callobrate and build code together
+      
+     scaffold = index app and style
+     
+     unsynced
+     
+     git pull origin master
+     
+     
+    HTML
+    persona: user experience and user interface design app around type of person
+    
+    function:
+    reusability and encapsulation
+    
+    
+    use loops to:
+    find stuff
+    look over data
+    
+    for:
+    START SOMWHERE
+    end somwhere
+    and direction to count
+    while: write and if statement and instead replace while
+    
+    
