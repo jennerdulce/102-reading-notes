@@ -1,5 +1,6 @@
 # Hey! This is a way to review and relearn previous lessons taught in class 102
 <br>
+
 ## Table Of Contents
 
 1. [Day 01](https://github.com/jennerdulce/reading-notes/blob/master/Day-01.md)
